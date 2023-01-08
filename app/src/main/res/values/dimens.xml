@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="high_text">64sp</dimen>
+
+    <dimen name="high">50dp</dimen>
+</resources>
