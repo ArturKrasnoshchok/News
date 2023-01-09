@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <dimen name="little_text">12sp</dimen>
+    <dimen name="small_text">16sp</dimen>
+    <dimen name="middle_text">40sp</dimen>
     <dimen name="high_text">64sp</dimen>
 
+    <dimen name="little_small">10dp</dimen>
+    <dimen name="small">12dp</dimen>
+    <dimen name="small_bigger">16dp</dimen>
+    <dimen name="bigger">18dp</dimen>
+    <dimen name="little">20dp</dimen>
     <dimen name="high">50dp</dimen>
+    <dimen name="large">88dp</dimen>
 </resources>
