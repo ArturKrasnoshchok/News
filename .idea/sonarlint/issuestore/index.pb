@@ -1,12 +1,8 @@
 
-p
-@app/src/main/java/com/example/news/ui/details/DetailsFragment.kt,d\9\d94f498da5b195c3056edb399ff9137ca1fa4907
 r
 Bapp/src/main/java/com/example/news/ui/favorite/FavoriteFragment.kt,1\a\1ad8299dd7de3683358a1f386a017d82f4da9c43
 n
 >app/src/main/java/com/example/news/ui/splash/SplashFragment.kt,3\4\34450b5e8f454d8b963a49509a16a47e7f87b93f
-c
-3app/src/main/java/com/example/news/models/Source.kt,9\c\9c899def393344529916b6d735fffd883ad7a4a8
 @
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 i
@@ -17,14 +13,10 @@ b
 2app/src/main/java/com/example/news/di/AppModule.kt,b\a\bacc30e405ed91a6a9328a7dfb2da4a70eb79995
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-d
-4app/src/main/java/com/example/news/models/Article.kt,b\5\b5efdb7ea0e27a3af26818dbfe8d3df9bfebfddb
 h
 8app/src/main/java/com/example/news/data/db/ArticleDao.kt,3\1\31d9ba76ca054279c907b93d0a7c2d0805f3650a
 m
 =app/src/main/java/com/example/news/data/db/ArticleDataBase.kt,6\8\68e62059fa5b9ae53dc59be7b1cc2f79af0f722c
-m
-=app/src/main/java/com/example/news/ui/adapters/NewsAdapter.kt,8\0\803cc4a2b10559518117cf0c42d6e2d5425a3da9
 `
 0app/src/main/java/com/example/news/di/NewsApp.kt,7\0\704e72f52d928bd70006d9b72a43ac79b8011fa1
 d

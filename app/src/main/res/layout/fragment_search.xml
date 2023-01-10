@@ -21,7 +21,6 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:layout_marginHorizontal="@dimen/bigger"
         android:id="@+id/ed_search"
         android:textColor="@color/grey_dark"
        android:layout_marginTop="@dimen/bigger"
