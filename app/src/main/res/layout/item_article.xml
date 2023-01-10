@@ -30,6 +30,7 @@
             android:id="@+id/article_date"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/small"
             android:text="12.10.25"
             android:textColor="@color/grey_dark"
             android:textSize="@dimen/little_text" />
@@ -38,9 +39,9 @@
             android:id="@+id/article_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/small"
             android:ellipsize="end"
             android:maxLines="3"
-
             android:text="News"
             android:textColor="@color/grey_dark"
             android:textSize="@dimen/little_text"

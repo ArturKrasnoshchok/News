@@ -3,6 +3,7 @@
 
     <dimen name="little_text">12sp</dimen>
     <dimen name="small_text">16sp</dimen>
+    <dimen name="smaller_text">12sp</dimen>
     <dimen name="middle_text">40sp</dimen>
     <dimen name="high_text">64sp</dimen>
 

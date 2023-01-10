@@ -59,7 +59,6 @@ class MainFragment : Fragment() {
         }
 
     }
-
     private fun initAdapter() {
         newsAdapter = NewsAdapter()
         news_adapter.apply {
